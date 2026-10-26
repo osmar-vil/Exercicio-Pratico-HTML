@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<signos>
+  <signo>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>20/04</dataFim>
+    <signoNome>Áries</signoNome>
+    <descricao>Signo de fogo, regido por Marte. Corajoso, impulsivo e cheio de energia, gosta de liderar e de novos começos.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>21/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <signoNome>Touro</signoNome>
+    <descricao>Signo de terra, regido por Vênus. Paciente, determinado e prático, valoriza a estabilidade e os prazeres da vida.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <signoNome>Gêmeos</signoNome>
+    <descricao>Signo de ar, regido por Mercúrio. Curioso, comunicativo e versátil, adora aprender e trocar ideias.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>22/07</dataFim>
+    <signoNome>Câncer</signoNome>
+    <descricao>Signo de água, regido pela Lua. Sensível, protetor e afetuoso, dá grande valor à família e ao lar.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>23/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <signoNome>Leão</signoNome>
+    <descricao>Signo de fogo, regido pelo Sol. Confiante, generoso e criativo, gosta de brilhar e ser reconhecido.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <signoNome>Virgem</signoNome>
+    <descricao>Signo de terra, regido por Mercúrio. Organizado, analítico e detalhista, busca sempre ser útil.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <signoNome>Libra</signoNome>
+    <descricao>Signo de ar, regido por Vênus. Diplomático, sociável e justo, procura equilíbrio e harmonia nas relações.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <signoNome>Escorpião</signoNome>
+    <descricao>Signo de água, regido por Plutão e Marte. Intenso, determinado e misterioso, vive tudo com profundidade.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12</dataFim>
+    <signoNome>Sagitário</signoNome>
+    <descricao>Signo de fogo, regido por Júpiter. Otimista, aventureiro e sincero, ama a liberdade e conhecer o mundo.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>19/01</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <descricao>Signo de terra, regido por Saturno. Disciplinado, responsável e ambicioso, trabalha com persistência por seus objetivos.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>20/01</dataInicio>
+    <dataFim>18/02</dataFim>
+    <signoNome>Aquário</signoNome>
+    <descricao>Signo de ar, regido por Urano e Saturno. Original, independente e humanitário, está sempre à frente do seu tempo.</descricao>
+  </signo>
+  <signo>
+    <dataInicio>19/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <signoNome>Peixes</signoNome>
+    <descricao>Signo de água, regido por Netuno e Júpiter. Sonhador, intuitivo e compassivo, tem grande sensibilidade e imaginação.</descricao>
+  </signo>
+</signos>
