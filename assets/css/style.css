@@ -1,0 +1,23 @@
+body {
+    background-color: #f5f6fa;
+}
+
+.signo-card {
+    background: linear-gradient(180deg, #8e86a8 0%, #4e4a8f 55%, #26237a 100%);
+    color: #e6e6ef;
+    border-radius: 1rem;
+}
+
+.signo-nome {
+    font-weight: 300;
+    letter-spacing: 0.3em;
+}
+
+.signo-periodo {
+    letter-spacing: 0.15em;
+    opacity: 0.8;
+}
+
+.signo-descricao {
+    letter-spacing: 0.05em;
+}
